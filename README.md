@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Maxwell Adinavi</h1>
 <h3 align="center">A passionate Software Engineer and Digital Specialist from Ghana.</h3>
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/coding-animations--126663808259167697/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adinavi&label=Profile%20views&color=0e75b6&style=flat" alt="adinavi" /> </p>
 
