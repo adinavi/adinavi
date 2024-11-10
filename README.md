@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **RayTracing, C++ and Python Programming**
 
-- 💬 Ask me about **Javascript, PHP and CSS.**
+- 💬 Ask me about **C++, Python, Javascript, CSS and PHP.**
 
 - 📫 How to reach me **adinavimaxwell@gmail.com**
 
